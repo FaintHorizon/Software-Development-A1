@@ -20,19 +20,55 @@ This Project is to implement a bassic web game for which I have chosen numble a 
 ---
 ## User Profile
 ### One
+</br>
+Text to fill
+</br>
 
 ### Two
+</br>
+Text to fill
+</br>
+
 
 ---
 ## User Requirements
+</br>
+Text to fill
+</br>
 
+---
 ## Functional and non-Functional Systems requirements
+</br>
+Text to fill
+</br>
 
+---
 ## Main Features
+</br>
+Text to fill
+</br>
 
+---
 ## Testing Plan
+</br>
+Text to fill
+</br>
 
+---
 ## Errors and fixes made
+</br>
+Text to fill
+</br>
 
+---
 ### Reffence
+</br>
+Text to fill
+</br>
+
+
 ### Credits
+</br>
+Text to fill
+</br>
+
