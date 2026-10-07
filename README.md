@@ -15,6 +15,8 @@
 </br>
 
 This Project is to implement a bassic web game for which I have chosen numble a game similar to wordle but guessing numbers instead, allowing it to be simpler due to me not being overly familiar with JavaScript. It is simpler by not having to rely on a dictionairy of allowed words instead its awnser generation can be done completly randomly through a list of numbers depending on the users selected dificulty
+</br>
+
 ---
 ## User Profile
 ### One
