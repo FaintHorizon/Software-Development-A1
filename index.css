@@ -1,64 +1,102 @@
 /* Reusing basic css from previous project*/
+/*main background*/
 body {
-    background: linear-gradient(to bottom, #2b0000, #000000);
+    background: linear-gradient(to bottom, #330101, #000000);
     color: #ffffff;
     min-height: 100vh;
 }
 
-.top-logo {
-    max-height: 55px;
-    width: auto;
-}
-
-.showcase-box {
+/*games box*/
+.game-container {
     background-color: #111111;
+    border-radius: 10px;
 }
 
-.showcase-image {
-    width: 100%;
-    height: auto;
-}
-
-.media-card {
-    background-color: #111111;
-    border: none;
-}
-
-.media-card .card-body {
-    padding: 0.75rem;
-}
-
-.media-card .card-text {
+/*button colours and hover effects for difficulty buttons*/
+.difficulty-button {
+    background-color: #222222;
     color: #ffffff;
-    margin: 0;
-    font-size: 0.95rem;
+    border: 1px solid #555555;
+}
+.difficulty-button:hover {
+    background-color: #333333;
+    color: #ffffff;
 }
 
-.media-card img {
-    height: 180px;
-    object-fit: cover;
+/*guessing grid*/
+.number-box {
+    width: 50px;
+    height: 50px;
+    background-color: #222222;
+    color: #ffffff;
+    border: 2px solid #555555;
+    border-radius: 5px;
+    font-size: 24px;
+    text-align: center;
+}
+/*colour coded feedback*/
+.correct {
+    background-color: green;
+    border-color: green;
+}
+.wrong-position {
+    background-color: #d4b000;
+    border-color: #d4b000;
+    color: #000000;
+}
+.incorrect {
+    background-color: #555555;
+    border-color: #555555;
 }
 
-.navbar .form-control {
-    background-color: #222;
-    color: #fff;
-    border: none;
+/*keypad buttons and hovering effects*/
+.keypad-button {
+    background-color: #222222;
+    color: #ffffff;
+
+    border: 1px solid #555555;
+    border-radius: 5px;
+}
+.keypad-button:hover {
+    background-color: #333333;
+    color: #ffffff;
 }
 
-.navbar .form-control::placeholder {
-    color: #aaa;
+/*keypad feedback*/
+.keypad-button:disabled {
+    background-color: #555555;
+    color: #888888;
+    border-color: #555555;
 }
 
-.user-icon {
-    max-height: 35px;
-    width: auto;
-    cursor: pointer;
+/*enter and delete buttons*/
+.enter-button {
+    background-color: #800000;
+    color: #ffffff;
+}
+.enter-button:hover {
+    background-color: #a00000;
+    color: #ffffff;
+}
+.delete-button {
+    background-color: #333333;
+    color: #ffffff;
+}
+.delete-button:hover {
+    background-color: #444444;
+    color: #ffffff;
 }
 
-.backBtn {
-    z-index: 10;
+/*win lose text*/
+.game-message {
+    color: #ffffff;
 }
 
-.mediaTitle {
-    z-index: 10;
+/*scaling for diffent devices and box amounts*/
+@media (max-width: 576px) { /* For small screens, reduce the size of number boxes https://www.w3schools.com/htmlcss/htmlcss_layout_grid.asp */
+    .number-box {
+        width: 42px;
+        height: 42px;
+        font-size: 20px;
+    }
 }
