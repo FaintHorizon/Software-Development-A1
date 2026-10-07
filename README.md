@@ -3,7 +3,7 @@
 [Project Description](#project-description)</br>
 [User Profile](#user-profile)</br>
 ----[User Profile One](#one)</br>
-----[Aims and Objectives](#two)</br>
+----[User Profile Two](#two)</br>
 [User Requirements](#user-requirements)</br>
 [System Requirements](#functional-and-non-functional-systems-requirements)</br>
 [Main Features](#main-features)</br>
