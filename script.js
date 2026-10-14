@@ -26,17 +26,17 @@ difficultyButtons.forEach(function(button) {
         let difficulty = button.textContent.trim().toLowerCase();
         if (difficulty === "easy") {
             numberOfCharacters = 3;
-            maxAttempts = 8;
+            maxAttempts = 7;
         }
 
         else if (difficulty === "medium") {
             numberOfCharacters = 5;
-            maxAttempts = 7;
+            maxAttempts = 6;
         }
 
         else if (difficulty === "hard") {
             numberOfCharacters = 7;
-            maxAttempts = 6;
+            maxAttempts = 5;
         }
 
         startGame();

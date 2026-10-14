@@ -1,7 +1,7 @@
 /* Reusing basic css from previous project*/
 /*main background*/
 body {
-    background: linear-gradient(to bottom, #330101, #000000);
+    background: linear-gradient(to bottom, #7045d4, #070004);
     color: #ffffff;
     min-height: 100vh;
 }
