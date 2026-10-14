@@ -8,7 +8,7 @@ body {
 
 /*games box*/
 .game-container {
-    background-color: #111111;
+    background-color: #1e0330;
     border-radius: 10px;
 }
 
@@ -16,10 +16,9 @@ body {
 .difficulty-button {
     background-color: #222222;
     color: #ffffff;
-    border: 1px solid #555555;
+    border: 2px solid #555555;
 }
 .difficulty-button:hover {
-    background-color: #333333;
     color: #ffffff;
 }
 
