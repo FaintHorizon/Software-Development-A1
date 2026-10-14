@@ -10,6 +10,7 @@
 [Testing Plan](#testing-plan)</br>
 [Errors and Fixes](#errors-and-fixes-made)</br>
 [Refferences](#reffence)</br>
+[Pages Deployment](#pages-deployment)</br>
 ---
 ## Project Description
 </br>
@@ -21,7 +22,12 @@ This Project is to implement a bassic web game for which I have chosen numble a 
 ## User Profile
 ### One
 </br>
-Text to fill
+Alec Bengiman
+Age: 25
+Background:
+Alec is a graduate accountant working in London, he is looking for something to spend his time during the long commutes on the train. The ga
+
+
 </br>
 
 ### Two
