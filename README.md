@@ -72,3 +72,6 @@ Text to fill
 Text to fill
 </br>
 
+### Pages Deployment
+
+https://fainthorizon.github.io/Software-Development-A1/

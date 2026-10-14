@@ -26,12 +26,12 @@ difficultyButtons.forEach(function(button) {
         let difficulty = button.textContent.trim().toLowerCase();
         if (difficulty === "easy") {
             numberOfCharacters = 3;
-            maxAttempts = 7;
+            maxAttempts = 5;
         }
 
         else if (difficulty === "medium") {
             numberOfCharacters = 5;
-            maxAttempts = 6;
+            maxAttempts = 5;
         }
 
         else if (difficulty === "hard") {
