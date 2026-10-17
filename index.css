@@ -91,6 +91,19 @@ body {
     color: #ffffff;
 }
 
+
+/* Tutorial text colours */
+.yellow-text {
+    color: #d4b000;
+    font-weight: bold;
+}
+
+.green-text {
+    color: #00cc44;
+    font-weight: bold;
+}
+
+
 /*scaling for diffent devices and box amounts*/
 @media (max-width: 576px) { /* For small screens, reduce the size of number boxes https://www.w3schools.com/htmlcss/htmlcss_layout_grid.asp */
     .number-box {
