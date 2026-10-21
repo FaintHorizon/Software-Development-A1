@@ -22,9 +22,9 @@ This Project is to implement a bassic web game for which I have chosen numble a 
 ## User Profile
 ### One
 </br>
-Alec Bengiman
-Age: 25
-Background:
+Alec Bengiman </br>
+Age: 25 </br>
+Background: </br>
 Alec is a graduate accountant working in London, he is looking for something to spend his time during the long commutes on the train. The game should be quick to play easy to understand and replayable. allowing him to easily play multiple games depending on the length of the commute.
 
 
@@ -32,7 +32,12 @@ Alec is a graduate accountant working in London, he is looking for something to 
 
 ### Two
 </br>
-Text to fill
+Samatha Jones </br>
+Age: 32 </br>
+Background: </br>
+
+
+
 </br>
 
 
