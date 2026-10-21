@@ -25,7 +25,7 @@ This Project is to implement a bassic web game for which I have chosen numble a 
 Alec Bengiman
 Age: 25
 Background:
-Alec is a graduate accountant working in London, he is looking for something to spend his time during the long commutes on the train. The ga
+Alec is a graduate accountant working in London, he is looking for something to spend his time during the long commutes on the train. The game should be quick to play easy to understand and replayable. allowing him to easily play multiple games depending on the length of the commute.
 
 
 </br>
