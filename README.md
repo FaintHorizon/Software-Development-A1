@@ -78,17 +78,17 @@ If you are unable to guess the number within the aloted mount of trys you get a 
 
 |Test No | Test Description | Expected Outcome | Actual Outcome | Steps needed | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| One  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Two  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Three | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Four | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Five  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| One  | Entering a number that is part of the awnser in its correct place | The box should turn green  | The box turned green  | None needed  |
+| Two  | Entering a number that is not part of the number  | It should show as grey on the keypad and its box | They keypad turned grey and dissabled that number and the previous guess showed as grey | None Needed  |
+| Three | Entering a number that is part of the awnser but in the wrong place | The cell should turn yellow  | The cell turns yellow | None Needed  |
+| Four | Game win state is achievable in all dificulties | All correct values across easy medium or hard should result in game win   | All game dificulties are winable  | None needed  |
+| Five  | Game is loseable when out of guesses | When out of guesses lose screen and awnser are revieled  | The lose screen displays as well as showing the awnser  | None needed  |
 | Six  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Seven  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Eight | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Nine | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Ten  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Eleven  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+
 
 </br>
 
