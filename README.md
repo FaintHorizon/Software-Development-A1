@@ -35,7 +35,7 @@ Alec is a graduate accountant working in London, he is looking for something to 
 Samatha Jones </br>
 Age: 32 </br>
 Background: </br>
-
+Samatha is a data analyst at a majour tech frim in liverpool, they are wanting something to break up the monotony of the day. For this the game must load quickly be accessible on different devices such as mobile and desktop and be quick to play through a round.
 
 
 </br>
@@ -44,7 +44,12 @@ Background: </br>
 ---
 ## User Requirements
 </br>
-Text to fill
+- Quick Load</br>
+- Easy to play</br>
+- Replayable</br>
+- Dificuluty Levels</br>
+- Tutorial</br>
+
 </br>
 
 ---
