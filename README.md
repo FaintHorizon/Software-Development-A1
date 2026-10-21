@@ -49,7 +49,6 @@ Samatha is a data analyst at a majour tech frim in liverpool, they are wanting s
 - Replayable</br>
 - Dificuluty Levels</br>
 - Tutorial</br>
-
 </br>
 
 ---
@@ -61,7 +60,20 @@ Text to fill
 ---
 ## Main Features
 </br>
-Text to fill
+Upon opening the game you are greeted with a tutorial page explaining the bassic rules of play with a large button to continue onto the main screen.
+<img src=".\imgs\index.png" alt="Landing Page"><br>
+<br>
+The main screen allows you to easily flick through the different difficulities showing how many numbers you would need to guess and how many attempts you get.
+<img src=".\imgs\main.png" alt="Main Screen"><br>
+<br>
+If you are successful you get a simple win screen showing you the final number and offering to let you play again you can also select a different dificulty at any point.
+<img src=".\imgs\win.png" alt="Win Screen"><br>
+<br>
+When you make a guess any numbers that do not apear in the sequence get greyed out on the keypad as there is no benifit to entering an incorect number.
+<img src=".\imgs\greyedKeypad.png" alt="Keypad Demo"><br>
+<br>
+If you are unable to guess the number within the aloted mount of trys you get a lose screen that also displays the correct guess at the bottom.
+<img src=".\imgs\lose.png" alt="Loose Screen"><br>
 </br>
 
 ---
@@ -77,7 +89,7 @@ Text to fill
 </br>
 
 ---
-### Reffence
+### References
 </br>
 Text to fill
 </br>
