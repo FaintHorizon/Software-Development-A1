@@ -2,8 +2,8 @@
 # Table Of Contents
 [Project Description](#project-description)</br>
 [User Profile](#user-profile)</br>
-----[User Profile One](#one)</br>
-----[User Profile Two](#two)</br>
+---[User Profile One](#one)</br>
+---[User Profile Two](#two)</br>
 [User Requirements](#user-requirements)</br>
 [System Requirements](#functional-and-non-functional-systems-requirements)</br>
 [Main Features](#main-features)</br>
@@ -21,25 +21,20 @@ This Project is to implement a bassic web game for which I have chosen numble a 
 ---
 ## User Profile
 ### One
-</br>
 Alec Bengiman </br>
 Age: 25 </br>
 Background: </br>
 Alec is a graduate accountant working in London, he is looking for something to spend his time during the long commutes on the train. The game should be quick to play easy to understand and replayable. allowing him to easily play multiple games depending on the length of the commute.
 
 
-</br>
-
+--- 
 ### Two
-</br>
 Samatha Jones </br>
 Age: 32 </br>
 Background: </br>
 Samatha is a data analyst at a majour tech frim in liverpool, they are wanting something to break up the monotony of the day. For this the game must load quickly be accessible on different devices such as mobile and desktop and be quick to play through a round.
 
-
 </br>
-
 
 ---
 ## User Requirements
@@ -54,7 +49,8 @@ Samatha is a data analyst at a majour tech frim in liverpool, they are wanting s
 ---
 ## Functional and non-Functional Systems requirements
 </br>
-Text to fill
+The functional systems include a random number generator, working keypad, and colour coding for the numbers guessed. One thing to add would be opening up the boxes to keyboard inputs, this was not done due to the extra validation being required and I did not feel it was nessercery.
+</br>
 </br>
 
 ---
@@ -79,7 +75,21 @@ If you are unable to guess the number within the aloted mount of trys you get a 
 ---
 ## Testing Plan
 </br>
-Text to fill
+
+|Test No | Test Description | Expected Outcome | Actual Outcome | Steps needed | 
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| One  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Two  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Three | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Four | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Five  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Six  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Seven  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Eight | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Nine | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Ten  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Eleven  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+
 </br>
 
 ---
@@ -96,8 +106,7 @@ Text to fill
 
 
 ### Credits
-</br>
-Text to fill
+Bootstrap and W3Schools for CSS and HTML 
 </br>
 
 ### Pages Deployment
