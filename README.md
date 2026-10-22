@@ -110,6 +110,14 @@ Fix: The Enter button was set to remain disabled until the current guess contain
 
 Testing: Tried to submit an incomplete guess and checked that the Enter button remained disabled until all the boxes were filled.
 
+### Error Three – Handling Incorrect Numbers on the Keypad
+
+Problem: Numbers that were not present in the hidden answer needed to be identified so that players could avoid using them in future guesses.
+
+Fix: The game checks each number in the submitted guess against the hidden number. If a number is not present, the disableKeypadButton() function disables that number on the keypad.
+
+Testing: Submitted a guess containing numbers that were not in the answer and checked that those numbers became greyed out and could no longer be selected.
+
 </br>
 
 ---
