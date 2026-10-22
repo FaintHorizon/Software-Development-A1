@@ -48,27 +48,25 @@ Samatha is a data analyst at a majour tech frim in liverpool, they are wanting s
 
 ---
 ## Functional and non-Functional Systems requirements
-</br>
 The functional systems include a random number generator, working keypad, and colour coding for the numbers guessed. One thing to add would be opening up the boxes to keyboard inputs, this was not done due to the extra validation being required and I did not feel it was nessercery.
 </br>
 </br>
 
 ---
 ## Main Features
-</br>
-Upon opening the game you are greeted with a tutorial page explaining the bassic rules of play with a large button to continue onto the main screen.
+Upon opening the game you are greeted with a tutorial page explaining the bassic rules of play with a large button to continue onto the main screen.<br>
 <img src=".\imgs\index.png" alt="Landing Page"><br>
 <br>
-The main screen allows you to easily flick through the different difficulities showing how many numbers you would need to guess and how many attempts you get.
+The main screen allows you to easily flick through the different difficulities showing how many numbers you would need to guess and how many attempts you get.<br>
 <img src=".\imgs\main.png" alt="Main Screen"><br>
 <br>
-If you are successful you get a simple win screen showing you the final number and offering to let you play again you can also select a different dificulty at any point.
+If you are successful you get a simple win screen showing you the final number and offering to let you play again you can also select a different dificulty at any point.<br>
 <img src=".\imgs\win.png" alt="Win Screen"><br>
 <br>
-When you make a guess any numbers that do not apear in the sequence get greyed out on the keypad as there is no benifit to entering an incorect number.
+When you make a guess any numbers that do not apear in the sequence get greyed out on the keypad as there is no benifit to entering an incorect number.<br>
 <img src=".\imgs\greyedKeypad.png" alt="Keypad Demo"><br>
 <br>
-If you are unable to guess the number within the aloted mount of trys you get a lose screen that also displays the correct guess at the bottom.
+If you are unable to guess the number within the aloted mount of trys you get a lose screen that also displays the correct guess at the bottom.<br>
 <img src=".\imgs\lose.png" alt="Loose Screen"><br>
 </br>
 
