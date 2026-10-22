@@ -103,7 +103,12 @@ Fix: A startGame() function was used to reset the hidden number, current guess, 
 
 Testing: Started a new game after winning and losing to check that the previous guesses were removed and a new round could be played.
 
+### Error Two -- Prevention of incomplete guesses
+Problem: Players should not be able to submit a guess before filling all the number boxes.
 
+Fix: The Enter button was set to remain disabled until the current guess contains the required number of digits. The updateNumberBoxes() function updates the button state whenever a number is added or deleted.
+
+Testing: Tried to submit an incomplete guess and checked that the Enter button remained disabled until all the boxes were filled.
 
 </br>
 
