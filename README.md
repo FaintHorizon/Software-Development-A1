@@ -83,11 +83,11 @@ If you are unable to guess the number within the aloted mount of trys you get a 
 | Three | Entering a number that is part of the awnser but in the wrong place | The cell should turn yellow  | The cell turns yellow | None Needed  |
 | Four | Game win state is achievable in all dificulties | All correct values across easy medium or hard should result in game win   | All game dificulties are winable  | None needed  |
 | Five  | Game is loseable when out of guesses | When out of guesses lose screen and awnser are revieled  | The lose screen displays as well as showing the awnser  | None needed  |
-| Six  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Seven  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Eight | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Nine | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Ten  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Six  | Changing difculty between levels  | The dificulty state should change  | The dificulty state changes | None Needed  |
+| Seven  | Able to enter the same number multiple times in a guess  | Should be able to fill the guess box with the same digit  | You can fill the guess box with the same digit  | None Needed |
+| Eight | Unable to enter an incomplete guess  | When waiting for all digits to be chosen the enter button is disabled  | The enter button is dissabled correctly and renables when guess is full  | None needed  |
+| Nine | Should be able to start a game after a loss  | By either clicking play again or a new dificulty you can start a fresh game  | When clicking start again or selecting a new dificulty it resets the game state  | None needed  |
+| Ten  | You can change difficulty during a game  | When clicking on a different dificulty mid game the game sate should reset to the new dificulty  | The game state resets to the new dificulty  | None needed  |
 
 
 </br>
