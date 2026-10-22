@@ -121,14 +121,11 @@ Testing: Submitted a guess containing numbers that were not in the answer and ch
 </br>
 
 ---
-### References
-</br>
-Text to fill
-</br>
 
 
 ### Credits
-Bootstrap and W3Schools for CSS and HTML 
+Bootstrap and W3Schools for CSS and HTML,  
+Freecodecamp for javascript
 </br>
 
 ### Pages Deployment
