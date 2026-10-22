@@ -95,7 +95,16 @@ If you are unable to guess the number within the aloted mount of trys you get a 
 ---
 ## Errors and fixes made
 </br>
-Text to fill
+
+### Error One -- Game reset
+Problem: Starting a new round needed to reset the previous game so that old guesses and the previous answer would not carry over.
+
+Fix: A startGame() function was used to reset the hidden number, current guess, attempt counter and game state. It also clears the previous guess grid and generates a new number.
+
+Testing: Started a new game after winning and losing to check that the previous guesses were removed and a new round could be played.
+
+
+
 </br>
 
 ---
